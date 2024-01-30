@@ -1,0 +1,8 @@
+C:\Users\hunte\source\repos\IT323_PECK_Unit6\obj\Debug\IT323_PECK_Unit6.csproj.AssemblyReference.cache
+C:\Users\hunte\source\repos\IT323_PECK_Unit6\obj\Debug\IT323_PECK_Unit6.csproj.SuggestedBindingRedirects.cache
+C:\Users\hunte\source\repos\IT323_PECK_Unit6\obj\Debug\IT323_PECK_Unit6.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\IT323_PECK_Unit6\bin\Debug\IT323_PECK_Unit6.exe.config
+C:\Users\hunte\source\repos\IT323_PECK_Unit6\bin\Debug\IT323_PECK_Unit6.exe
+C:\Users\hunte\source\repos\IT323_PECK_Unit6\bin\Debug\IT323_PECK_Unit6.pdb
+C:\Users\hunte\source\repos\IT323_PECK_Unit6\obj\Debug\IT323_PECK_Unit6.exe
+C:\Users\hunte\source\repos\IT323_PECK_Unit6\obj\Debug\IT323_PECK_Unit6.pdb
